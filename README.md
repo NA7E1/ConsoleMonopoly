@@ -11,7 +11,7 @@ The full game of Monopoly, playable from right in the terminal.
 
 ## Video Links
 * **Demo Video:** https://youtu.be/HYLoRnCs5Xg
-* **Walkthrough Video:** https://youtu.be/Ht8GW9vCJ3A
+* **Walkthrough Video:** https://youtu.be/PjHHTkIOyyQ
 
 ## How to Play
 * Run `python main.py` in your terminal.
